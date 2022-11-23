@@ -2,12 +2,12 @@ package lang.print.gaps.task4;
 
 public class IntRepresentation {
     public static void main(String[] args) {
-        int x = 63, y = 68, z = 61, q = 72;
+        int x = 99, y = 104, z = 97, q = 114;
 
-        System.out.println((char)63);
-        System.out.println((char)68);
-        System.out.println((char)61);
-        System.out.println((char)72);
+        System.out.println((char)x);
+        System.out.println((char)y);
+        System.out.println((char)z);
+        System.out.println((char)q);
 
     }
 }
